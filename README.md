@@ -33,9 +33,13 @@
 ### Installation 
 * Clone the repository
     ``` 
-    https://github.com/DharmeshRS/Coursera_Clone.git
+    https://github.com/aishwaryaj20/CourseraCloneUpdated
     ```
 
+* Deploy Link
+    ``` 
+    https://aishwaryaj20.github.io/CourseraCloneUpdated/
+    ```
 ### Website Flow
 
 
